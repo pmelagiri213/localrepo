@@ -41,6 +41,11 @@ div{
     align-items: center;
 }
 
+#logo img{
+    width: 130px;
+    height: 100%;
+}
+
 #search-bar input{
     width: 300px;
     height: 30px;
